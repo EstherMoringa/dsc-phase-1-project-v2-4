@@ -58,6 +58,6 @@ Q. What are the top profitable movies
 Conclusions
 
 1. Recommendations on the types of films Microsoft's movie studio should focus on producing, considering audience preferences and market trends.
-2. Suggestions for marketing and distribution strategies based on successful patterns observed in the data.
+2. Also consider working with Directores of movies like Avengers, star wars,Jurassic world, furious, the avengers Harry potter, Black panter, frozen, Beauty and the beast since their movies were top best selling with high profits.
 3. It was suggested that they invest more in adventure movies, action, drama, science fiction, comedy, and fantasy. They also had the most top-rated reviews with many votes.
 3. By following these steps, I leveraged data-driven insights to inform decision-making and guide Microsoft's new movie studio toward producing successful films.
