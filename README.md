@@ -31,7 +31,10 @@ Results
 4. Use the results based on a general analysis from both datas to drive concrete insights.
    
  Q. What genre of movie is most profitable?
+ 
 ![Most Common Genres of the Top 100 Movies](https://github.com/EstherMoringa/dsc-phase-1-project-v2-4/assets/162351617/d5b5efd7-4bc1-43e6-9ea4-88c76d075d36)
+
+
 
 Q. What are the top profitable movies
 ![Top 10 Highest Profit Movies 2010-2016'](https://github.com/EstherMoringa/dsc-phase-1-project-v2-4/assets/162351617/270efe60-0b31-4aa4-882c-124c5ffe3414)
