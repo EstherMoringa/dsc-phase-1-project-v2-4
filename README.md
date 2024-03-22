@@ -14,13 +14,17 @@ Microsoft sees all the big companies creating original video content and they wa
 Data sources
 
 •	Box office Mojo
+
 •	IMDb
+
 •	THENumbers
 
 Objectives
 
 •	Identify trends and patterns in the types of films that are performing well at the box office.
+
 •	Analyze factors such as genre, budget, and release timing that contribute to a movie's success.
+
 •	Provide actionable insights to Microsoft's movie studio head to inform decision-making on the types of films to produce.
 
 Methods
